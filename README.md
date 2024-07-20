@@ -3,8 +3,8 @@
 This repository contains the Power BI dashboard for the Global Superstore Sales. This dashboard provides a comprehensive overview of the sales performance, profit, and other key metrics of a global superstore across different segments, markets, and time periods.
 
 
+![Global Superstore Sales](https://github.com/user-attachments/assets/611df650-2ac5-4134-a7e7-c6845a653283)
 
-https://github.com/user-attachments/assets/321ed605-df80-4c21-a594-7d284908d0da
 
 
 ## Features

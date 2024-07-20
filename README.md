@@ -22,7 +22,6 @@ This repository contains the Power BI dashboard for the Global Superstore Sales.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Data Source](#data-source)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
@@ -38,14 +37,14 @@ To get started with the Power BI dashboard, follow these steps:
   Open GlobalSuperstoreSalesDashboard.pbix with Power BI Desktop.
 
 
-##Usage
+## Usage
 Once you have the Power BI file open, you can interact with the dashboard to explore various metrics and visualizations as shown in the image above.  
 The dashboard is designed to be interactive, allowing you to filter and drill down into specific data points.
 
-##Data Source
+## Data Source
 The data used in this Power BI dashboard is sourced from a fictional superstore dataset, which includes details about sales, profits, shipping costs, and product performance across different regions and segments.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 

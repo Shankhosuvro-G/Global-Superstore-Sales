@@ -4,8 +4,8 @@ This repository contains the Power BI dashboard for the Global Superstore Sales.
 
 
 
-![Global Superstore Sales Dashboard](![Global Superstore Sales](https://github.com/user-attachments/assets/321ed605-df80-4c21-a594-7d284908d0da)
-)
+https://github.com/user-attachments/assets/321ed605-df80-4c21-a594-7d284908d0da
+
 
 ## Features
 
